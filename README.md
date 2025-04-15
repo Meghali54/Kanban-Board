@@ -17,7 +17,7 @@ This application requires only a modern web browser (Chrome, Firefox, Safari, Ed
 INSTALLATION
 
 1. Clone this repository or download the source files:
-2. git clone 
+2. git clone https://github.com/Meghali54/Kanban-Board.git
 3. Navigate to the project folder and do npm install then npm run dev to run the project.
 
 USAGE
